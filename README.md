@@ -13,16 +13,14 @@
 - 当规则过于冗杂时会处理一下规则以提高速度
 - ~~时长在线~~
 
-- **杏梢/金布里的规则**
+- **推荐的规则**
 
 |名称|链接|
 |---|---|
 |**XXKiller(金布里)**|[link](https://gcore.jsdelivr.net/gh/DoingDog/XXKiller@main/w.txt)|
-|**Adrules adblock list**|[link](https://adrules.hacamer.cf/adblock.txt)|
-
-Dns类
-**adrules dns list**  
-[link](https://adrules.hacamer.cf/dns.txt)
+|**Adrules adblock list(杏梢)**|[link](https://adrules.hacamer.cf/adblock.txt)|
+|**qby's adrules(我的)**|[link](https://gitee.com/qibuyan/qibuyan-s-adguard-rules/raw/main/qby's%20%20adrules.txt)
+|**adrules dns list(杏梢)(dns类)**|[link](https://adrules.hacamer.cf/dns.txt)
 
 - 有誤殺建議搭配[白名單](https://adrules.hacamer.cf/allow.txt)使用
 
